@@ -3,7 +3,7 @@
 **Registration Number:** 24BEY10038  
 **Course:** Open Source Software (OSS NGMC)  
 **Chosen Software:** Mozilla Firefox  
-**Repository:** `oss-audit-[rollnumber]`
+**Repository:** `oss-audit-24BEY10038`
 
 ---
 
@@ -70,8 +70,8 @@ These scripts run on any Linux system (Ubuntu/Debian recommended). If you don't 
 
 **1. Clone this repository**
 ```bash
-git clone https://github.com/[yourusername]/oss-audit-[rollnumber].git
-cd oss-audit-[rollnumber]
+git clone https://github.com/amanpanday-18/oss-audit-24BEY10038.git
+cd oss-audit-24BEY10038
 ```
 
 **2. Make all scripts executable**
