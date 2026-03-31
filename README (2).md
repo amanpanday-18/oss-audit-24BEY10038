@@ -4,8 +4,8 @@
 
 | Role | Details |
 | :--- | :--- |
-| **Student Name** | Yash Gupta |
-| **Registration Number** | 24BCE11336 |
+| **Student Name** | Aman Panday |
+| **Registration Number** | 24BEY10038 |
 | **Chosen Software** | Apache HTTP Server (`apache2`) |
 | **Environment** | Ubuntu 24.04 LTS |
 
@@ -43,8 +43,8 @@ To successfully execute this script suite, ensure the target environment meets t
 Follow these steps to deploy and run the scripts on your local Linux terminal.
 
 **1. Clone the repository:**
-    git clone https://github.com/your-username/oss-audit-24BCE10028.git
-    cd oss-audit-24BCE10028
+    git clone https://github.com/amanpanday-18/oss-audit-24BEY10038.git
+    cd oss-audit-24BEY10038
 
 **2. Make the scripts executable:**
     chmod +x *.sh
